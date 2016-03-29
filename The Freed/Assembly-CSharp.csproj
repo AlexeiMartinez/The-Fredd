@@ -45,7 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\BG moviment.cs" />
+     <Compile Include="Assets\scripts\ScrollParalax.cs" />
+     <Compile Include="Assets\scripts\Seguimiento.cs" />
      <Compile Include="Assets\scripts\movimentFredd.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
